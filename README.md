@@ -54,3 +54,12 @@ Prawee.age = 78;
 console.log(Pratud);
 console.log(Prawee);
 ```
+To grasp prototype in JavaScript to create super class and
+sub-class and instance the object, you can see it in example file in this repository.
+
+# Other Reference
+[Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Syntax)
+
+[http://ezybzy.info/node/326](http://ezybzy.info/node/326)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
